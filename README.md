@@ -1,9 +1,9 @@
 # 💫 About Me:
 <br>Greetings! 👋 I'm Nagadastagiri.S, a committed software developer deeply engaged in the captivating landscape of banking technology.<br><br>🚀 Currently Focused On:<br>Elevating cloud-based solutions and steering the implementation of microservices.<br><br>💡 Happy to discuss anything related to:<br>Java, Spring Boot, JavaScript, Oracle DB<br><br>💼 At the moment, I'm applying my skills and knowledge in a product-based company, serving as a Software Developer. 💻<br><br>
 #  Professional Background 
-<br><br> With two years of practical experience under my belt, I've been actively shaping cutting-edge solutions within the dynamic realm of banking. As a software developer, my journey has been a dive into the complexities of financial systems, enabling me to contribute significantly to the evolution of secure and inventive software.<br><br>
+<br> With two years of practical experience under my belt, I've been actively shaping cutting-edge solutions within the dynamic realm of banking. As a software developer, my journey has been a dive into the complexities of financial systems, enabling me to contribute significantly to the evolution of secure and inventive software.<br><br>
 # What I Do
-<br><br><br>🚀 Engaging with cross-functional teams to ensure seamless product delivery.<br>💻 Creating inventive features for enhanced functionality in banking applications.<br>🔐 Implementing robust validations to strengthen payment security measures.<br>🌟 Introducing novel features to streamline and enhance the payment process.<br>🌐 Investigating state-of-the-art technologies to remain at the forefront of the ever-evolving tech landscape.<br><br>
+<br>🚀 Engaging with cross-functional teams to ensure seamless product delivery.<br>💻 Creating inventive features for enhanced functionality in banking applications.<br>🔐 Implementing robust validations to strengthen payment security measures.<br>🌟 Introducing novel features to streamline and enhance the payment process.<br>🌐 Investigating state-of-the-art technologies to remain at the forefront of the ever-evolving tech landscape.<br><br>
 
 
 ## 🌐 Socials:
